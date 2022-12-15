@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BarisSAVAS
 - 
-- I’m interested and work in Robotics software and computer vision
+- I’m interested and work in Software Development
 - 
--  I’m currently learning C++ and CV 
+
